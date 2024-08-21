@@ -10,7 +10,7 @@
                 https://google.com
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="1.0.0+6/ebond_pos_flutter_windows_app-1.0.0+6-windows-setup.exe"
+            <enclosure url="https://github.com/ducpmOhmidas/updater/blob/main/dist/1.0.0%2B6/ebond_pos_flutter_windows_app-1.0.0%2B6-windows-setup.exe"
                 sparkle:dsaSignature="MDwCHFHoydAWXh6CQb0D/Ij4CjEaaomw7wgrnY2rzi8CHEj+K1UTiqkhimc0nuD+s4JvUPr9FXDeE2X64II="
                 sparkle:version="1.0.0+6"
                 sparkle:os="windows"
